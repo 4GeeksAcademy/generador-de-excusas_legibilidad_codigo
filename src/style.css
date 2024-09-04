@@ -1,1 +1,17 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+#btnRefresh {
+  background-color: blue;
+  color: white;
+}
+body {
+  background-color: rgb(136, 52, 52);
+}
+h1 {
+  color: yellow;
+}
+.container-fluid {
+  background-color: rgb(136, 52, 52);
+}
+.fixed-bottom {
+  color: yellow;
+}
